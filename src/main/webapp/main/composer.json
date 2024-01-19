@@ -1,0 +1,25 @@
+{
+  "name": "almasaeed2010/TM",
+  "description": "TM - admin control panel and dashboard that's based on Bootstrap 4",
+  "homepage": "https://TM.io/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Colorlib"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/ColorlibHQ/TM/issues"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ckj/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ckj" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/landing.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/members/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/members" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/members/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/members" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/projects/detail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/projects" />
+      </map>
+    </option>
+  </component>
+</project>
